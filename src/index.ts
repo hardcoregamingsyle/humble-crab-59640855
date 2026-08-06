@@ -1,1 +1,1 @@
-// src/index.ts
+ENTRY_POINT_CONTENT
